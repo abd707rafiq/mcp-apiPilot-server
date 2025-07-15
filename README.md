@@ -27,7 +27,7 @@ Test the createUser API
 
 ## 📦 Tech Stack
 
-- Node.js (typeScript)
+- Node (typeScript)
 - MCP SDK (Model Context Protocol)
 - Cursor editor
 - Zod for schema validation
